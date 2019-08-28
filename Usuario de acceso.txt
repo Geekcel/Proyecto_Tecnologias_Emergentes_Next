@@ -1,0 +1,3 @@
+el usuario de acceso es el mismo para las dos versiones:
+correo: usuario.tienda@mail.com
+contraseña: 123456
